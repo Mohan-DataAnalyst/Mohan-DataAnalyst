@@ -9,7 +9,7 @@ I'm moving into supply chain and logistics analytics. I'm based in Bengaluru.
 - Tata Group Data Visualisation job simulation (Forage), April 2026.
 
 ## What I'm working on
-- **Indian Logistics Delivery Performance Analysis** (SQL, Excel, Power BI), in progress. [link when ready]
+- **Indian Logistics Delivery Performance Analysis** (SQL, Excel, Power BI), in progress.
 - **Supply chain analytics group project** (Excel, SQL, Power BI, Tableau), in progress.
 
 ## Tools
